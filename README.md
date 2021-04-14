@@ -1,2 +1,4 @@
 # notebook-playground
-Collection of Jupyter Notebooks
+Collection of Jupyter Notebooks for testing
+
+Generates some data, writes them as pictures.
